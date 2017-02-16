@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Brad Serbu",
+    "email": "bradserbu@bradserbu.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bradserbu/vectis-framework/issues"
+  },
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/bradserbu/vectis-framework#readme",
+  "keywords": [
+    "lever",
+    "nodejs",
+    "microservice",
+    "framework",
+    "platform",
+    "toolkit"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bradserbu",
+      "email": "bradserbu@bradserbu.com"
+    }
+  ],
+  "name": "vectis-framework",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bradserbu/vectis-framework.git"
+  },
+  "scripts": {},
+  "version": "0.0.0"
+}
